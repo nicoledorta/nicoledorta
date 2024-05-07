@@ -3,8 +3,6 @@
 🤓 Sou estudante do curso técnico de **multimídia**, no SENAI "Paulo Antônio Skaf".
 - Atualmente estou aprendendo a codificar em HTML e CSS
 
-
-
 <div>
   <a href="https://github.com/nicoledorta">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicoledorta&show_icons=true&theme=tokyonight">
