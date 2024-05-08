@@ -1,7 +1,7 @@
 ### Oii! Meu nome é Nicole Dorta 👋
 
 🤓 Sou estudante do curso técnico de **multimídia**, no SENAI "Paulo Antônio Skaf".
-- Atualmente estou aprendendo a codificar em HTML e CSS
+- Atualmente estou aprendendo a codificar em **HTML**, **CSS** e **Javascript**
 
 <div>
   <a href="https://github.com/nicoledorta">
