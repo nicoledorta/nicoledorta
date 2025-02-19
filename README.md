@@ -1,6 +1,6 @@
 ### Oii! Meu nome é Nicole Dorta 👋
 
-🤓 Tenho 16 anos e sou estudante do curso técnico de **multimídia**, no SENAI "Paulo Antônio Skaf".
+🤓 Tenho 17 anos e sou estudante do curso técnico de **multimídia**, no SENAI "Paulo Antônio Skaf".
 - Atualmente estou aprendendo a codificar em **HTML**, **CSS** e **Javascript**
 
 <div>
